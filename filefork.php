@@ -1,0 +1,1 @@
+ini file ditambah di fork
